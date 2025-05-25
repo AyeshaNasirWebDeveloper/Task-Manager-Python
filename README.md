@@ -36,7 +36,7 @@ task\_manager/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/AyeshaNasirWebDeveloper/Task-Manager-Python.git
+git clone https://github.com/AyeshaNasirWebDeveloper/Task-Manager-Python
 ````
 
 2. Run the application:
